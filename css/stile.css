@@ -1,0 +1,140 @@
+.rectangleheader{
+    background-color: rgb(226, 194, 49);
+    width: 1920px;
+    height: 230px;
+}
+.rectangle1{
+    background-color: rgb(59, 59, 59);
+    width: 1920px;
+    height: 1208px;
+}
+h1{
+    position: absolute;
+    top: 575px;
+    left: 70px;
+    font-size: 100px;
+    width: 453px;
+    height: 323px;
+    color: rgb(226, 194, 49);
+}
+.rectangle2{
+    background-color: white;
+    width: 1920px;
+    height: 1208px;
+}
+h2{
+    font-size: medium;
+    position: absolute;
+    top: 1918px;
+    left: 1355px;
+    font-size: 35px;
+    width: 483px;
+    height: 320px;
+}
+.rectangle3{
+    background-color: rgb(59, 59, 59);
+    width: 1920px;
+    height: 1208px;  
+}
+h3{
+    position: absolute;
+    top: 3018px;
+    left: 70px;
+    font-size: 35px;
+    width: 457px;
+    height: 333px;
+    color: white;
+}
+.rectangle4{
+    background-color: white;
+    width: 1920px;
+    height: 1208px;   
+}
+h4{
+    position: absolute;
+    top: 4189px;
+    left: 1355px;
+    font-size: 35px;
+    width: 483px;
+    height: 320px;
+
+}
+.rectangle5{
+    background-color: rgb(59, 59, 59);
+    width: 1920px;
+    height: 1208px;
+}
+h5{
+    position: absolute;
+    top: 5507px;
+    left: 70px;
+    font-size: 35px;
+    width: 457px;
+    height: 333px;
+    color: white;
+}
+.rectanglefooter{
+    background-color: rgb(226, 194, 49);
+    width: 1920px;
+    height: 1633px;   
+}
+.img_box1{
+    position: relative;
+    left: 883px;
+    top: 227px;
+    width: 1297px;
+    height: 1297px;
+}
+#immagine1.png{
+    width: 100%;
+    height: 100%;
+    object-fit: 100%;
+}
+.img_box2{
+    position: relative;
+    left: 70px;
+    top: 227px;
+    width: 1297px;
+    height: 1297px;
+}
+#immagine2.png{
+    width: 100%;
+    height: 100%;
+    object-fit: 100%;
+}
+.img_box3{
+    position: relative;
+    left: 883px;
+    top: 227px;
+    width: 1297px;
+    height: 1297px;
+}
+#immagine3.png{
+    width: 100%;
+    height: 100%;
+    object-fit: 100%;
+}
+.img_box4{
+    position: relative;
+    left: 70px;
+    top: 227px;
+    width: 1297px;
+    height: 1297px;
+}
+#immagine4.png{
+    width: 100%;
+    height: 100%;
+    object-fit: 100%;
+}
+.img_box5{
+    position: relative;
+    left: 883px;
+    top: 227px;
+    width: 1297px;
+    height: 1297px;
+}
+#immagine5.png{
+    width: 100%;
+    height: 100%;
+    object-fit: 100%;
+}
